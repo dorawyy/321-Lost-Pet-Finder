@@ -1,4 +1,4 @@
-/* eslint-disable */
+
 
 // Load the SDK and UUID
 var AWS = require('aws-sdk');

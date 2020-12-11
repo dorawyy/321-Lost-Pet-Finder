@@ -1,4 +1,4 @@
-/* eslint-disable */
+
 const aws = require('../aws/awsClient');
 const rekognition = aws.rekognition;
 const s3 = aws.s3;
